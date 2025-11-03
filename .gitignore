@@ -1,0 +1,33 @@
+# Virtual environments
+venv/
+env/
+ml_env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node / JS
+node_modules/
+
+# IDE / System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Data and model files
+*.csv
+*.json
+*.zip
+*.tar
+*.gz
+*.pkl
+*.h5
+*.pt
+*.onnx
